@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "apellido": "Perez",
+    "nombre": "Juan",
+    "cargo": "Administrador",
+    "estado": "Inactivo",
+    "activo": false
+  },
+  {
+    "id": 2,
+    "apellido": "Lopez",
+    "nombre": "Maria",
+    "cargo": "Gerente",
+    "estado": "Inactivo",
+    "activo": false
+  },
+  {
+    "id": 3,
+    "apellido": "Gomez",
+    "nombre": "Carlos",
+    "cargo": "Desarrollador",
+    "estado": "Activo",
+    "activo": true
+  },
+  {
+    "id": 4,
+    "apellido": "Martinez",
+    "nombre": "Ana",
+    "cargo": "Diseñadora",
+    "estado": "Activo",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "apellido": "Rodriguez",
+    "nombre": "Laura",
+    "cargo": "Analista de Datos",
+    "estado": "Activo",
+    "activo": true
+  },
+  {
+    "id": 6,
+    "apellido": "Fernandez",
+    "nombre": "Miguel",
+    "cargo": "DevOps",
+    "estado": "Inactivo",
+    "activo": false
+  },
+  {
+    "id": 7,
+    "apellido": "Sanchez",
+    "nombre": "Patricia",
+    "cargo": "Contadora",
+    "estado": "Activo",
+    "activo": true
+  },
+  {
+    "id": 8,
+    "apellido": "Torres",
+    "nombre": "Roberto",
+    "cargo": "Recursos Humanos",
+    "estado": "Activo",
+    "activo": true
+  },
+  {
+    "id": 9,
+    "apellido": "Diaz",
+    "nombre": "Carla",
+    "cargo": "Marketing",
+    "estado": "Inactivo",
+    "activo": false
+  },
+  {
+    "id": 10,
+    "apellido": "Gonzalez",
+    "nombre": "Javier",
+    "cargo": "Soporte Técnico",
+    "estado": "Activo",
+    "activo": true
+  }
+]
